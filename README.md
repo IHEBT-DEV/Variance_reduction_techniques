@@ -140,7 +140,12 @@ Variance_reduction_techniques/
 
 ---
 
+## 💡 Conclusion
 
+This project demonstrates how **variance reduction techniques** can significantly enhance the efficiency and accuracy of **Monte Carlo simulations** in option pricing.  
+By combining **stochastic gradient optimization** with **importance sampling**, we achieve results that closely match the **Black–Scholes theoretical prices**, while maintaining reduced variance and faster convergence.
+
+---
 ## 🧑‍💻 Author
 
 **Iheb T**  
